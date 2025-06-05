@@ -1,7 +1,7 @@
 <h1 align="center">Página de Inicio de Huddle con Secciones Curvas</h1>
 <p align="left">
   <a href="README_ES.md" target="_blank">
-    Ver README en Español
+    View README in English
   </a>
 </p>
 <p>Este proyecto representa una página de inicio visualmente atractiva y organizada, diseñada con secciones curvas para proporcionar un aspecto moderno y dinámico. La inspiración para este diseño proviene de la página Mentor Frontend, y se ha desarrollado con el propósito de fortalecer y practicar habilidades clave en HTML y CSS.</p>
