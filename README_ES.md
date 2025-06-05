@@ -51,5 +51,5 @@
 3. Explora las secciones curvas y observa la implementación de los conceptos aprendidos.
    
 <p>Este proyecto ha sido una valiosa experiencia de aprendizaje y práctica, contribuyendo al crecimiento y consolidación de habilidades esenciales en el desarrollo frontend.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/HuddleLandingPageWithCurvedSections/">aquí</a></p>
+<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/huddle-landing-page-with-curved-sections/">aquí</a></p>
 <img src="huddle-landing-page-with-curved-sections.png" alt="Project Image" title="Project Image" />
